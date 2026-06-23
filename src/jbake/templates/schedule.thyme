@@ -16,24 +16,40 @@
 
                 <div class="row gy-5 justify-content-between">
                 <div class="col-xl-6 col-lg-6">
-                    <h2>Day 1: Workshops | July 18, 2025</h2>
-                        <h4>Event Venue</h4>
-                         <p>PUCMM, Santo Domingo. Av. Abraham Lincoln, Santo Domingo. Dominican Republic</p>
+                <h2>Day 0: JakartaOne Community Meetup - Dominican Republic | July 16, 2026</h2>
+                    <h4>Event Venue</h4>
+                     <p>PUCMM,Santiago. Autopista Duarte Km 1 1/2, Santiago de los Caballeros.Dominican Republic</p>
 
-                            <p><a href="https://maps.app.goo.gl/waHRAjzKMkx7geDZ7"
-                                    target="_blank"><i class="fa fa-map"></i> Edificio Monseñor Agripino Núñez Collado</a>
-                            </p>
+                        <p><a href="https://maps.app.goo.gl/h5EmSTymCBUiVQ278"
+                                target="_blank"><i class="fa fa-map"></i> Sede de Postgrado PUCMM, Santiago</a>
+                        </p>
+                      <p><i class="fa fa-clock"></i> 6:00 P.M. - 9:30 P.M.</p>
+
+
+                </div>
+                <div class="col-xl-6 col-lg-6">
+                    <h2>Day 1: Workshops | July 17, 2026</h2>
+                        <h4>Event Venue</h4>
+                         <p>PUCMM,Santiago. Autopista Duarte Km 1 1/2, Santiago de los Caballeros.Dominican Republic</p>
+
+                           <p><a href="https://maps.app.goo.gl/h5EmSTymCBUiVQ278"
+                                                           target="_blank"><i class="fa fa-map"></i> Sede de Postgrado PUCMM, Santiago</a>
+                          </p>
+                        <p><i class="fa fa-clock"></i> 1:00 P.M. - 6:00 P.M.</p>
 
                         </div>
                         <div class="col-xl-6 col-lg-6">
-                                   <h2>Day 2: Conference Day | July 19, 2025</h2>
+                                   <h2>Day 2: Conference Day | July 18, 2025</h2>
 
-                                              <h4>Event Venue</h2>
-                                             <p>PUCMM, Santo Domingo. Av. Abraham Lincoln, Santo Domingo. Dominican Republic</p>
-                                                  <p><a href="https://maps.app.goo.gl/waHRAjzKMkx7geDZ7"
-                                                      target="_blank"><i class="fa fa-map"></i> Auditorio I, Edificio A-2</a></p>
+                                   <h4>Event Venue</h2>
+                                   <p>PUCMM,Santiago. Autopista Duarte Km 1 1/2, Santiago de los Caballeros.Dominican Republic</p>
+
+                                   <p><a href="https://maps.app.goo.gl/y5ozh7St9nVMEYFz5"
+                                                      target="_blank"><i class="fa fa-map"></i>https://maps.app.goo.gl/y5ozh7St9nVMEYFz5</a></p>
 
                                               </p>
+                                  <p><i class="fa fa-clock"></i> 7:30 A.M. - 6:00 P.M.</p>
+
 
                     </div>
                </div>

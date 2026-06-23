@@ -777,7 +777,7 @@
     "photoUrl": "/archive/jconf2024/images/speakers/eddumelendez.jpg",
     "shortBio": "",
     "bio": "Eddú Meléndez es Staff Software Engineer en Docker y actualmente forma parte del equipo de Testcontainers. Desde 2015, ha contribuido al ecosistema de Spring y otros proyectos de código abierto. En su tiempo libre, le gusta investigar sobre nuevas tendencias y colaborar en proyectos de código abierto.",
-    "display": true,
+    "display": false,
     "featured": false,
     "badges": [
       {
@@ -857,6 +857,39 @@
         "icon": "linkedin",
         "name": "Linkedin",
         "link": "https://www.linkedin.com/in/jxinternet/"
+      }
+    ]
+  },
+  {
+    "numOrder": 129,
+    "speakerId": "hector-ventura",
+    "name": "Hector Ventura",
+    "company": "Floci",
+    "companyLogo": "",
+    "title": "Lead Software Engineer",
+    "country": "USA",
+    "countryFlag": "flag-icon-us",
+    "photoUrl": "/img/speakers/hector-ventura.jpg",
+    "shortBio": "",
+    "bio": "Héctor Ventura es un Lead Software Engineer especializado en sistemas backend y en tiempo real, con sede en McKinney, Texas. Con más de 18 años de experiencia, diseña servicios distribuidos, aplicaciones nativas en la nube y es el creador de Floci, un conjunto de emuladores de nube local.Su experiencia abarca frameworks basados en Java (Quarkus, Vert.x, Spring Boot, Jakarta EE) y sistemas de VoIP/telecomunicaciones, combinando el desarrollo nativo en la nube con comunicaciones en tiempo real.<br> Es contribuyente de Quarkus y también contribuye a Debezium y Eclipse Vert.x. Además, desarrolla herramientas con licencia MIT, optimizadas para velocidad (binarios nativos de GraalVM que inician en ~24 ms) y eficiencia (~13 MiB de memoria en reposo)",
+    "display": true,
+    "featured": false,
+    "badges": [
+      {
+        "name": "Lead Software Engineer",
+        "description": "Lead Software Engineer"
+      }
+    ],
+    "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/hectorvent"
+      },
+      {
+        "icon": "linkedin",
+        "name": "Linkedin",
+        "link": "https://www.linkedin.com/in/hectorvent/"
       }
     ]
   }

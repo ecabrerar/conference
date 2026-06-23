@@ -236,7 +236,7 @@ var linguJSON = {
     },
     {
       'source': 'Sessions',
-      'target_es': 'Charlas'
+      'target_es': 'Sesiones'
     },
     {
       'source': 'Registration / Light breakfast',
