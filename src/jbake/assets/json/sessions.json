@@ -462,7 +462,7 @@
     "audience_level": "All",
     "talk_format": "Workshop (> 60 minutes)",
     "language": "es",
-    "display": true,
+    "display": false,
     "featured": false,
     "tags": [
       "Server side development"
@@ -542,6 +542,23 @@
     "speakers": [
       "ivar-grimstad"
     ]
+  },
+  {
+    "id": 132,
+    "title": "Build a Whole Cloud Locally with Floci",
+    "abstract": "A 4-hour hands-on workshop. Run, test, and ship a real cloud app on your laptop, with no account, no token, and nothing remote.",
+    "description": "Cloud development usually means an account, credentials, billing, and a slow round-trip to someone else's data center just to test a five-line change.<a href=\"https://floci.io\">Floci</a> runs AWS-shaped services right on your laptop. Where it counts, it runs the <b>real</b> engines instead of mocks: a real Lambda runtime, real Kubernetes, real containers.<br><br>In this workshop you'll build a genuine event-driven application. It's a Quarkus service and a Python Lambda working together across S3, SQS, and DynamoDB, all on your own machine. From there you'll make it CI-grade with isolated integration tests, stand up real infrastructure like an EKS cluster and EC2 instances,migrate a LocalStack project with a one-line image swap, and finish by running a GitHub Actions pipeline locally against your local cloud.",
+    "audience_level": "All",
+    "talk_format": "Workshop (> 60 minutes)",
+    "language": "es",
+    "display": true,
+    "featured": false,
+    "tags": [
+      "Server side development",
+      "Cloud Native"
+    ],
+    "speakers": [
+      "hector-ventura"
+    ]
   }
-
 ]

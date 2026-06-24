@@ -462,7 +462,7 @@
     "audience_level": "All",
     "talk_format": "Workshop (> 60 minutes)",
     "language": "es",
-    "display": true,
+    "display": false,
     "featured": false,
     "tags": [
       "Server side development"
@@ -540,6 +540,25 @@
     ],
     "speakers": [
       "ivar-grimstad"
+    ]
+  },
+  {
+    "id": 132,
+    "title": "Build a Whole Cloud Locally with Floci",
+    "abstract": "Un taller práctico de 4 horas. Ejecuta, prueba y despliega una aplicación en la nube real en tu portátil, sin cuentas, sin tokens y sin dependencias remotas.",
+    "description": "El desarrollo en la nube suele implicar una cuenta, credenciales, facturación y un lento viaje de ida y vuelta al centro de datos de otro proveedor solo para probar un cambio de cinco líneas. Con <a href=\"https://floci.io\">Floci</a> , puedes ejecutar servicios con forma de AWS directamente en tu portátil. Donde más importa, utiliza los motores reales en lugar de simulaciones: un entorno de ejecución real de Lambda, Kubernetes real y contenedores reales. <br><br>En este taller, construirás una aplicación auténtica basada en eventos: un servicio en Quarkus y una función Lambda en Python que colaboran entre sí a través de S3, SQS y DynamoDB, todo en tu propia máquina. Luego, lo llevarás a un nivel de integración continua (CI) con pruebas de integración aisladas, implementarás infraestructura real como un clúster de EKS y instancias EC2, migrarás un proyecto de LocalStack con un simple cambio de imagen y, finalmente, ejecutarás un pipeline de GitHub Actions localmente contra tu nube local.",
+    "audience_level": "All",
+    "talk_format": "Workshop (> 60 minutes)",
+    "language": "es",
+    "display": true,
+    "featured": false,
+    "tags": [
+      "Server side development",
+      "Cloud Native"
+
+    ],
+    "speakers": [
+      "hector-ventura"
     ]
   }
 ]
