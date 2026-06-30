@@ -77,5 +77,19 @@
     "logoUrl": "/img/supporters/guatejug.jpg",
     "url": "https://www.guate-jug.net/",
     "display": true
+  },
+  {
+    "id": "PuraVidaJUG",
+    "name": "PuraVidaJUG",
+    "logoUrl": "/img/supporters/PuraVidaJUG.jpg",
+    "url": "https://x.com/puravidajug",
+    "display": true
+  },
+  {
+    "id": "Floci",
+    "name": "Floci. Any cloud. Locally.",
+    "logoUrl": "/img/supporters/floci.png",
+    "url": "https://floci.io/",
+    "display": true
   }
 ]
