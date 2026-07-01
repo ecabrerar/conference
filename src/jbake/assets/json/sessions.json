@@ -497,7 +497,7 @@
     "audience_level": "All",
     "talk_format": "Talk (~30-45 minutes)",
     "language": "es",
-    "display": true,
+    "display": false,
     "featured": false,
     "tags": [
       "Observability and Monitoring"

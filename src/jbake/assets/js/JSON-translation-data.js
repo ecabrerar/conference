@@ -864,6 +864,33 @@ var linguJSON = {
             {
                'source': 'Be the first to know when tickets are available! Sign up to be notified when they go on sale',
                'target_es': '¡Sé el primero en enterarte cuando las entradas estén disponibles! Regístrate para recibir una notificación cuando salgan a la venta'
+            },
+            {
+                'source': 'All the Side Events During JConf Dominicana',
+                'target_es': 'Todos los eventos paralelos durante JConf Dominicana'
+            },
+
+            {
+                'source': 'JConf Dominicana fosters connection, peer learning, and career growth. Join us for a weekend of networking and community engagement beyond the main conference. Our side events provide space to connect, share insights, and build lasting relationships, perfect for expanding your network outside the formal agenda.',
+                'target_es': 'JConf Dominicana fomenta la conexión, el aprendizaje entre pares y el crecimiento profesional. Únete a nosotros para un fin de semana de networking y participación comunitaria más allá de la conferencia principal. Nuestros eventos paralelos ofrecen un espacio para conectar, compartir conocimientos y construir relaciones duraderas, ideales para ampliar tu red de contactos fuera de la agenda formal.'
+            },
+             {
+                'source': 'JakartaOne Community Meetup Dominican Republic 2026 is a free event organized by the Java community of the Dominican Republic in collaboration with the Eclipse Foundation. It will take place on July 16, 2026, as part of the activities surrounding JConf Dominicana 2026. The meetup will feature high-level content on Java Enterprise and Jakarta EE, along with refreshments and surprises for attendees.',
+                'target_es': 'JakartaOne Community Meetup República Dominicana 2026 es un evento gratuito organizado por la comunidad Java de República Dominicana en colaboración con la Eclipse Foundation. Se llevará a cabo el 16 de julio de 2026 como parte de las actividades que rodean al JConf Dominicana 2026. El meetup ofrecerá contenido de alto nivel sobre Java Enterprise y Jakarta EE, además de incluir refrigerios y sorpresas para los asistentes.'
+            },
+
+            {
+                'source': 'Wrap up the conference and keep the energy going at the JConf Dominicana After Party!',
+                'target_es': 'Cierra la conferencia y mantén la energía en el After Party de JConf Dominicana!'
+            },
+            {
+                'source': 'Register here',
+                'target_es': 'Registrarse aquí'
+            },
+            {
+                 'source': 'Side Events',
+                 'target_es': 'Eventos Paralelos'
             }
+
   ]
 }
