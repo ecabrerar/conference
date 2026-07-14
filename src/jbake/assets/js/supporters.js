@@ -1,20 +1,17 @@
-fetch("../json/supporters.json")
-    .then(function (response) {
-        if (!response.ok) {
-            throw Error(response.statusText);
-        }
+import { getUsefulContents, getUsefulLink } from '/js/util-url.js';
+import {fetchData} from '/js/fetch-util.js';
 
-        return response.json();
-    })
-    .then(function (supportersJson) {
-        let supportersHtml = document.getElementById('supportersList');
+function createSupporterCardRow(supportersJson) {
 
-        supportersJson.filter(item => item.display === true).forEach(supporter => supportersHtml.innerHTML += createSupporterCard(supporter));
+    let rowHtml = "<h2>"+supportersJson.packageName+"</h2>"+
+            "<div class=\"row justify-content-center\">";
 
-    }).catch((error) => {
-    console.error(error);
-});
+        supportersJson.supporters.filter(item => item.display === true).forEach(supporter => rowHtml += createSupporterCard(supporter));
 
+      rowHtml +=  "</div>";
+
+      return rowHtml;
+}
 
 function createSupporterCard(supporterJson) {
 
@@ -24,3 +21,27 @@ function createSupporterCard(supporterJson) {
         "</div>" +
         "</div>";
 }
+
+let supporterList = function(supporterJson) {
+
+      let supportersList = [];
+
+      supporterJson.forEach(supporterObj => supportersList.push(supporterObj));
+
+
+    return supportersList;
+}
+
+let renderSupporterList = function(supportersList) {
+        let supportersHtml = document.getElementById('supportersList');
+
+
+       supportersList.forEach(supporter => supportersHtml.innerHTML += createSupporterCardRow(supporter));
+
+}
+
+let supporterUrl = "../json/supporters.json";
+let jsonData = await fetchData(supporterUrl);
+let supporterListRendered = supporterList(jsonData);
+
+renderSupporterList(supporterListRendered);

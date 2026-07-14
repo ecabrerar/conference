@@ -1,95 +1,143 @@
 [
   {
-    "id": "eict",
-    "name": "Escuela de Computación y Telecomunicaciones",
-    "logoUrl": "/img/supporters/pucmm-ect.png",
-    "url": "https://eict.pucmm.edu.do/",
-    "display": true
-  },
+    "id": "communityPartners",
+    "packageName": "Community Partners",
+    "supporters": [
 
-  {
-    "id": "dominicana-jug",
-    "name": "Dominican Republic Java Users Group",
-    "logoUrl": "/img/supporters/jugrd-logo.png",
-    "url": "https://twitter.com/JavaDominicano",
-    "display": true
-  },
+      {
+        "id": "eict",
+        "name": "Escuela de Computación y Telecomunicaciones",
+        "logoUrl": "/img/supporters/pucmm-ect.png",
+        "url": "https://eict.pucmm.edu.do/",
+        "display": true
+      },
 
-  {
-    "id": "jetbrains",
-    "name": "Jetbrains",
-    "logoUrl": "/img/supporters/jetbrains.png",
-    "url": "https://www.jetbrains.com",
-    "display": true
+      {
+        "id": "dominicana-jug",
+        "name": "Dominican Republic Java Users Group",
+        "logoUrl": "/img/supporters/jugrd-logo.png",
+        "url": "https://twitter.com/JavaDominicano",
+        "display": true
+      },
+
+      {
+        "id": "jetbrains",
+        "name": "Jetbrains",
+        "logoUrl": "/img/supporters/jetbrains.png",
+        "url": "https://www.jetbrains.com",
+        "display": true
+      },
+      {
+        "id": "ciccpucmm",
+        "name": "Comité de Estudiantes de Ingeniería en Ciencias de la Computación",
+        "logoUrl": "/img/supporters/cicc-logo.png",
+        "url": "https://www.instagram.com/ciccpucmm",
+        "display": true
+      },
+      {
+        "id": "GInIEm",
+        "name": "GInIEm - Consultoria, Desarrollo de Software y Staffing",
+        "logoUrl": "/img/supporters/giniem-logo-es-sqr.png",
+        "url": "https://giniem.com",
+        "display": false
+      },
+      {
+        "id": "JugNicaragua",
+        "name": "Jug Nicaragua",
+        "logoUrl": "/img/supporters/nicaraguaJUG.png",
+        "url": "https://x.com/jugnicaragua",
+        "display": false
+      },
+      {
+        "id": "JavaMexico",
+        "name": "Java México",
+        "logoUrl": "/img/supporters/java-mexico.png",
+        "url": "https://x.com/javamexico",
+        "display": true
+      },
+      {
+        "id": "mongodb",
+        "name": "MongoDB",
+        "logoUrl": "/img/supporters/MongoDB.png",
+        "url": "https://www.mongodb.com",
+        "display": false
+      },
+      {
+        "id": "PeruJUG",
+        "name": "PeruJUG",
+        "logoUrl": "/img/supporters/perujug.png",
+        "url": "https://perujug.org",
+        "display": true
+      },
+      {
+        "id": "itsmrd",
+        "name": "Comunidad ITSM RD",
+        "logoUrl": "/img/supporters/itsmrd.png",
+        "url": "https://www.itsmrd.org.do/",
+        "display": true
+      },
+      {
+        "id": "GuateJUG",
+        "name": "GuateJUG",
+        "logoUrl": "/img/supporters/guatejug.jpg",
+        "url": "https://www.guate-jug.net/",
+        "display": true
+      },
+      {
+        "id": "PuraVidaJUG",
+        "name": "PuraVidaJUG",
+        "logoUrl": "/img/supporters/PuraVidaJUG.jpg",
+        "url": "https://x.com/puravidajug",
+        "display": true
+      },
+      {
+        "id": "Floci",
+        "name": "Floci. Any cloud. Locally.",
+        "logoUrl": "/img/supporters/floci.png",
+        "url": "https://floci.io/",
+        "display": true
+      },
+      {
+        "id": "jakartaone",
+        "name": "JakartaOne",
+        "logoUrl": "/img/supporters/jakartaone.png",
+        "url": "https://jakartaone.jakarta.ee",
+        "display": true
+      },
+      {
+        "id": "eclipse-open-community-meetup",
+        "name": "Eclipse Open Community meetup",
+        "logoUrl": "/img/supporters/eclipse-open-community-meetup.png",
+        "url": "https://jakartaone.jakarta.ee",
+        "display": true
+      }
+    ]
   },
   {
-    "id": "ciccpucmm",
-    "name": "Comité de Estudiantes de Ingeniería en Ciencias de la Computación",
-    "logoUrl": "/img/supporters/cicc-logo.png",
-    "url": "https://www.instagram.com/ciccpucmm",
-    "display": true
-  },
-  {
-    "id": "GInIEm",
-    "name": "GInIEm - Consultoria, Desarrollo de Software y Staffing",
-    "logoUrl": "/img/supporters/giniem-logo-es-sqr.png",
-    "url": "https://giniem.com",
-    "display": false
-  },
-  {
-    "id": "JugNicaragua",
-    "name": "Jug Nicaragua",
-    "logoUrl": "/img/supporters/nicaraguaJUG.png",
-    "url": "https://x.com/jugnicaragua",
-    "display": false
-  },
-  {
-    "id": "JavaMexico",
-    "name": "Java México",
-    "logoUrl": "/img/supporters/java-mexico.png",
-    "url": "https://x.com/javamexico",
-    "display": true
-  },
-  {
-    "id": "mongodb",
-    "name": "MongoDB",
-    "logoUrl": "/img/supporters/MongoDB.png",
-    "url": "https://www.mongodb.com",
-    "display": false
-  },
-  {
-    "id": "PeruJUG",
-    "name": "PeruJUG",
-    "logoUrl": "/img/supporters/perujug.png",
-    "url": "https://perujug.org",
-    "display": true
-  },
-  {
-    "id": "itsmrd",
-    "name": "Comunidad ITSM RD",
-    "logoUrl": "/img/supporters/itsmrd.png",
-    "url": "https://www.itsmrd.org.do/",
-    "display": true
-  },
-  {
-    "id": "GuateJUG",
-    "name": "GuateJUG",
-    "logoUrl": "/img/supporters/guatejug.jpg",
-    "url": "https://www.guate-jug.net/",
-    "display": true
-  },
-  {
-    "id": "PuraVidaJUG",
-    "name": "PuraVidaJUG",
-    "logoUrl": "/img/supporters/PuraVidaJUG.jpg",
-    "url": "https://x.com/puravidajug",
-    "display": true
-  },
-  {
-    "id": "Floci",
-    "name": "Floci. Any cloud. Locally.",
-    "logoUrl": "/img/supporters/floci.png",
-    "url": "https://floci.io/",
-    "display": true
+    "id": "mediaPartners",
+    "packageName": "Media Partners",
+    "supporters": [
+      {
+        "id": "barcamprd",
+        "name": "BarCamp RD,2026",
+        "logoUrl": "/img/supporters/barcamprd-2026.jpg",
+        "url": "https://barcamp.org.do",
+        "display": true
+      },
+      {
+        "id": "techgamesrd",
+        "name": "Tech Games RD",
+        "logoUrl": "/img/supporters/techgamesrd.jpg",
+        "url": "https://www.instagram.com/techgamesrd",
+        "display": true
+      },
+      {
+        "id": "dominicana-techweek",
+        "name": "Dominicana Tech Week",
+        "logoUrl": "/img/supporters/dominicana-techweek.png",
+        "url": "https://dominicanatechweek.do",
+        "display": true
+      }
+    ]
   }
 ]

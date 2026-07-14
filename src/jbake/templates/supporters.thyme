@@ -20,9 +20,10 @@
                 <!-- Section Title End -->
 
                 <!-- Supporter Start -->
-                <div class="meeta-sponsor-wrap">
-                    <div class="row justify-content-center" id="supportersList"></div>
-                </div>
+
+                 <div class="meeta-sponsor-wrap" style="text-align: center;" id="supportersList">
+
+                  </div>
                 <!-- Supporter End -->
             </div>
         </div>
