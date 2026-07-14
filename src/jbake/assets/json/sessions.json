@@ -80,7 +80,7 @@
     "language": "es",
     "display": true,
     "featured": false,
-    "talk_format": "Talk (~30-45 minutes)",
+    "talk_format": "Keynote (~30-45 minutes)",
     "tags": [
       "software development",
       "Server side development"
