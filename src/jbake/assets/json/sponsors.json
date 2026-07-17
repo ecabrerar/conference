@@ -42,6 +42,22 @@
         "url": "https://avathartech.com/",
         "packageType": "Geek",
         "display": true
+      },
+      {
+        "id": "tupaq",
+        "name": "Tupaq",
+        "logoUrl": "/img/sponsors/tupaq.png",
+        "url": "https://www.tupaq.com.do",
+        "packageType": "Geek",
+        "display": true
+      },
+      {
+        "id": "vfsewing",
+        "name": "VF Sewing",
+        "logoUrl": "/img/sponsors/vfsewing.png",
+        "url": "http://vfsewing.com",
+        "packageType": "Geek",
+        "display": true
       }
     ]
   }
